@@ -1,1 +1,1 @@
-# Cats-Dogs
+# Cats-And-Dogs-CNN
